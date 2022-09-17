@@ -2,7 +2,8 @@ import React from 'react'
 import Image from 'next/image'
 export const Right = (props) => {
   return (
-      <>
+    <>
+      
       <section className="text-gray-400 bg-gray-900 body-font" id={props.ID}>
         <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
         
